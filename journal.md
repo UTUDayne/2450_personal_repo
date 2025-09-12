@@ -5,3 +5,5 @@ Yesterday I had the interesting situation of answering a question Bart said in a
 I learned a lot about JavaScript today, and I think it is interesting how it seems to be a halfway point from c++ to python.
 
 09/5/2025: I learned how to attach a public key to a mailfence email, and that is by using the attachments option, not just signing the email. I also learned the Bubble sort, shaker sort, and counting sort algorithms, where shaker sort was the fastest of them if the list is already mostly sorted, but can become n^2 if randomly sorted. A third thing I learned was that JS DOM querySelector only grabs the first item in a class, while querySelectorAll grabs every item.
+
+09/12/2025: The most important things I learned this week was to make sure I don't mistake - for = in code, that python uses an algorithm called powersort which is stable, unlike quicksort, and to read quiz questions more carefully, even if I have multiple attempts.
