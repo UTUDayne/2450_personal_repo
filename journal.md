@@ -14,3 +14,7 @@ Main points of a technical presentation:
 Whos the audience
 What are the goals
 Follow design principles
+
+I have learned that you can use shift click to highlight everything between the cursor and where you are clicking
+
+use git branch -f xxxxx to create a branch. -u sets upstream?
