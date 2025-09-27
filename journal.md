@@ -10,11 +10,10 @@ I learned a lot about JavaScript today, and I think it is interesting how it see
 
 09/20/2025: I have experimented and found that just leaving the controller physically connected to the Xbox one seems to work, will try with the Series X. I have learned about using flask, and have learned the acronym ACAO, for Access-Control-Allow-Origin. For the security+ midterm, I memorized the documents and error codes, but those turned out to be unnessessary. Sp-800.53 helps with securing your company, and I have associated it with the Ferrari SP 500 and think of it as the Ferrari sp 800 53. Certificates are formated in x.509v3 and CRLs are x.509v2 
 
-Main points of a technical presentation:
+09/26/2025: The three main points of a technical presentation:
 Whos the audience
-What are the goals
+What are your goals
 Follow design principles
-
 I have learned that you can use shift click to highlight everything between the cursor and where you are clicking
-
-use git branch -f xxxxx to create a branch. -u sets upstream?
+use git branch -f xxxxx to create a branch. -u sets upstream? git branch -d deletes it.
+Leaving the Xbox controller connected did fix it, and it now works wirelessly.
