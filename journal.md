@@ -17,3 +17,5 @@ Follow design principles
 I have learned that you can use shift click to highlight everything between the cursor and where you are clicking
 use git branch -f xxxxx to create a branch. -u sets upstream? git branch -d deletes it.
 Leaving the Xbox controller connected did fix it, and it now works wirelessly.
+
+10/3/2023: I learned about tailwind today, though I need to do more research to fully understand how it helps ease the CSS of our project. GET reads, POST creates a new entity, PUT replaces an individual entity, DELETE get rid of an entity, PATCH selectively updates parts of an entity.
