@@ -18,4 +18,6 @@ I have learned that you can use shift click to highlight everything between the 
 use git branch -f xxxxx to create a branch. -u sets upstream? git branch -d deletes it.
 Leaving the Xbox controller connected did fix it, and it now works wirelessly.
 
-10/3/2023: I learned about tailwind today, though I need to do more research to fully understand how it helps ease the CSS of our project. GET reads, POST creates a new entity, PUT replaces an individual entity, DELETE get rid of an entity, PATCH selectively updates parts of an entity.
+10/3/2025: I learned about tailwind today, though I need to do more research to fully understand how it helps ease the CSS of our project. GET reads, POST creates a new entity, PUT replaces an individual entity, DELETE get rid of an entity, PATCH selectively updates parts of an entity.
+
+10/10/2025: I learned that you should not have an important spreadsheet cell selected when you put the computer to sleep, as that may delete the info contained in the cell. I also learned that WPS has now been replaced by the more secure EasyConnect
