@@ -23,3 +23,5 @@ Leaving the Xbox controller connected did fix it, and it now works wirelessly.
 10/10/2025: I learned that you should not have an important spreadsheet cell selected when you put the computer to sleep, as that may delete the info contained in the cell. I also learned that WPS has now been replaced by the more secure EasyConnect
 
 10/17/2025: I learned that I just have to turn my xbox on and then off with the wheel unplugged in order to get the controllers synced again. I also learned RESTful standards in http, such as name table with plural and descriptive names like resturants or user and not new or delete.
+
+10/25/2025:This week I learned about unit testing, always make sure to return the error codes when making restful routes, and that having multiple tabs in postman is very useful to quickly switch between methods.
