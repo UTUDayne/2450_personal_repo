@@ -26,4 +26,6 @@ Leaving the Xbox controller connected did fix it, and it now works wirelessly.
 
 10/25/2025:This week I learned about unit testing, always make sure to return the error codes when making restful routes, and that having multiple tabs in postman is very useful to quickly switch between methods.
 
+10/31/2025: Java Spring boot is a good option for slower work with a lot of entry level jobs, but probably not remote work. Make sure to contribute open source projects I am passionate about, as it is great resume building and lower-pressure experience. Employers aren't likely to look at how prestigious an open source project is, but how you contributed to it.
+
 11/7/2025: I learned about how code coverage is how much of your code executes when you run your tests, and around 75 to 95% code coverage is acceptable. I also learned about pylint, which can list formatting and other more subtle errors to you that isn't covered in unit tests.
